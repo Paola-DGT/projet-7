@@ -1,0 +1,15 @@
+artifact_uri: file:///volume/jupyter_nb/Proyecto%207/mlruns/0/34165ef5c33d4954a2acae5f592ce276/artifacts
+end_time: 1675419138833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34165ef5c33d4954a2acae5f592ce276
+run_name: fearless-foal-523
+run_uuid: 34165ef5c33d4954a2acae5f592ce276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675419138827
+status: 4
+tags: []
+user_id: outscale
